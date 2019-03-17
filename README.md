@@ -1,4 +1,4 @@
-<h2>RTS Tower Defense game attempt with UE4</h2>
+<center><h2>RTS Tower Defense game attempt with UE4</h2></center>
 
 ![alt tag](https://user-images.githubusercontent.com/28708647/54490358-40d5f900-48c6-11e9-8b63-e9c39754b17a.png)
 
